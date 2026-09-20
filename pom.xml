@@ -52,10 +52,10 @@
             <scope>test</scope>
         </dependency>
         <dependency>
-            <groupId>com.produto</groupId>
-            <artifactId>ProdutoService</artifactId>
-            <version>1.0-SNAPSHOT</version>
-        </dependency>
+    <groupId>com.produto</groupId>
+    <artifactId>ProdutoService</artifactId>
+    <version>1.0-SNAPSHOT</version>
+</dependency>
     </dependencies>
 
     <build>
