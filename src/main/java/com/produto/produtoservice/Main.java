@@ -1,5 +1,7 @@
 package com.produto.produtoservice;
 
+import com.produto.produtoservice.Produto; 
+
 public class Main {
     public static void main(String[] args) {
         Produto produto = new Produto();
